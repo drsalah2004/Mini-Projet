@@ -15,29 +15,11 @@ Elle permet aux utilisateurs de consulter des produits, gérer un panier et effe
 
 --------------------------------------------------
 
--Architecture du Projet
-
-
-├── server         Serveur (logique métier + gestion clients)
---------------------------------------------------
-├── client         Client (interaction utilisateur)
---------------------------------------------------
-├── common         Classes partagées (Request / Response)
---------------------------------------------------
-├── models         Classes métier (Utilisateur, Produit...)
---------------------------------------------------
-├── dao            Accès base de données (JDBC)
---------------------------------------------------
-└── services      Logique applicative
---------------------------------------------------
-
---------------------------------------------------
-
 -Technologies utilisées
 - Java
 - Sockets TCP/UDP
 - Multi-threading
-- JDBC (MySQL / SQLite)
+- JDBC (MySQL)
 - Git & GitHub
 
 --------------------------------------------------
