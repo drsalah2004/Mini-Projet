@@ -1,8 +1,8 @@
- Application E-Commerce en Java
+ Application Chrionline en Java
 ==============================
 
 -Description
-ChriOnline est une application e-commerce développée en Java dans le cadre d’un mini-projet académique.
+ChriOnline est une application e-commerce développée en Java dans le cadre d’un mini-projet académique ChriOnline,Khalik 9rib.
 Elle permet aux utilisateurs de consulter des produits, gérer un panier et effectuer des commandes via une architecture client-serveur basée sur les sockets TCP/UDP.
 
 --------------------------------------------------
